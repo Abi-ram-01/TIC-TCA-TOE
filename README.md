@@ -16,8 +16,7 @@ To compile and run this game, you'll need a Java Development Kit (JDK) installed
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Abi-ram-01]/[TIC-TAC-TOE].git
-    cd [TIC-TAC-TOE]
+   https://github.com/Abi-ram-01/TIC-TCA-TOE
     ```
 
 2.  **Compile the Java Files:**
